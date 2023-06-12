@@ -1,0 +1,1 @@
+a = float.Parse(Console.ReadLine("Digite um número: "));
